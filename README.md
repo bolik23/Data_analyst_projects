@@ -1,24 +1,26 @@
-# Примеры моих проектов выложены здесь
+# Here you can find some examples of my Python and SQL projects
 
-### В названии каждого документа указаны основные использованные библиотеки, функции, методы. 
+### In the name of each of the document i mentioned mainly used libraries, functions and methods. 
 
-Ниже список проектов:
-- 1. Анализ рынка недвижимости. 
+Below is the list of all projects, located in my github repository:
+- 1_analysis of the real estate market. Pandas, Matplotlib. Apply, corr, pivot_table, coolwarm, query
+- 2_Dashboard (Tableau) from SQLlite server pipline. Sqlalchemy, Pandas, Seaborn, Matplotlib, plotle_express
 
-#### Библиотеки, часто изпользуемые в моих проектах:
+#### Libraries, more frequently used in my projects:
 
-**Работа с данными:**
+**Working with data:**
   - pandas
   
-**Визуализация данных:**
+**Visualization:**
   - matplotlib.pyplot
   - seaborn
   - plotly.express
   
-**Работа с базами данных:**
+**Working with databases:**
   - sqlalchemy
+  - psycopg2
   
-**Парсинг сайтов:**
+**Parcing in web:**
   - BeautifulSoup
   - requests
 
