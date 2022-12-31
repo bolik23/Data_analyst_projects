@@ -9,12 +9,15 @@
 
 **Работа с данными:**
   - pandas
+  
 **Визуализация данных:**
   - matplotlib.pyplot
   - seaborn
   - plotly.express
+  
 **Работа с базами данных:**
   - sqlalchemy
+  
 **Парсинг сайтов:**
   - BeautifulSoup
   - requests
