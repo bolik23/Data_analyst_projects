@@ -5,7 +5,7 @@
 Below is the list of all projects, located in my github repository:
 - 1_Machine_learning (EDA, Sklearn, Stats, Visualizations) 
 - 2_Dashboard (Tableau) from SQLlite server pipline. Sqlalchemy, Pandas, Seaborn, Matplotlib, plotle_express
-- 3_Solving the test task. Sqlalchemy, pandas, plotly_express. Loops, query, concat, diff, shift
+- 3_A/B_testing
 - 4__Parsing_data_from_airports_online_flights_shedule. selenium, pandas, time, requests, 
 
 #### Libraries, more frequently used in my projects:
